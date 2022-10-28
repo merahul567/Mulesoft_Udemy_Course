@@ -1,0 +1,19 @@
+{
+	"people": {
+		"person": {
+			"name": "Rahul"
+		},
+		"person": {
+			"name": "Kumar"
+		},
+		"person": {
+			"name": "Raj"
+		},
+		"person": {
+			"name": "Badal"
+		},
+		"person": {
+			"name": "Sumit"
+		}
+	}
+}
